@@ -4,3 +4,8 @@ ___
 
 # Dependencies
 * wget
+___
+# To Do
+* Linux and Windows support
+* Save Images with optional argument
+* Run script on login using Daemons
